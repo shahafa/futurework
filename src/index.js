@@ -18,7 +18,7 @@ ReactDOM.render(
 
 // HMR
 if (module.hot) {
-  module.hot.accept('./containers/App', () => {
+  module.hot.accept('containers/App', () => {
     ReactDOM.render(
       <Provider store={store}>
         <App />
