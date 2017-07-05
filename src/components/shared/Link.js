@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { lightBlue } from 'material-ui/styles/colors';
+import { lightBlue } from 'material-ui/colors';
 import { textProps } from './propReceivers';
 
 const Link = styled.span`

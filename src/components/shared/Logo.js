@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import { grey } from 'material-ui/styles/colors';
+import { grey } from 'material-ui/colors';
 
 const LogoStyle = styled.div`
   font-family: Caveat;

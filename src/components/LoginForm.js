@@ -10,7 +10,7 @@ import Input from 'components/shared/Input';
 import Spacer from 'components/shared/Spacer';
 import HoverableLink from 'components/shared/HoverableLink';
 import Button from 'components/shared/Button';
-import { grey } from 'material-ui/styles/colors';
+import { grey } from 'material-ui/colors';
 
 class LoginForm extends Component {
   static propTypes = {
